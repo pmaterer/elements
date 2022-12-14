@@ -1,0 +1,2 @@
+splitting:
+"build": "esbuild src/frameRate.ts src/ease.ts src/collisionDetection.ts --bundle --outdir=public/build --splitting --format=esm",

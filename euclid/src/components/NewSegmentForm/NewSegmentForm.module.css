@@ -1,0 +1,10 @@
+.header {
+  margin-bottom: 0.5rem;
+}
+
+.form {
+  border: 2px solid black;
+  box-shadow: 2px 2px 0px 0px #3b82f6;
+  padding: 0.25rem;
+}
+

@@ -1,0 +1,19 @@
+.label {
+  margin-right: 0.5rem;
+}
+
+.input {
+  outline: none;
+  width: 2.5rem;
+  height: 2.5rem;
+  background-color: black;
+  color: white;
+  text-align: center;
+
+  border-color: #3b82f6;
+  border-bottom-width: 4px;
+}
+
+.input::placeholder {
+  color: white;
+}
