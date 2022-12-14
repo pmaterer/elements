@@ -1,0 +1,15 @@
+body {
+  background-color: black;
+}
+
+#root {
+  position: relative;
+}
+
+#root canvas {
+  position: absolute;
+}
+
+canvas {
+  background-color: transparent;
+}
